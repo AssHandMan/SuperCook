@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6514527551677034316
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.3266495
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.20104003
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.5144963
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5754084199372789682, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: -6696916019799616790, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+    - target: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_Name
+      value: Carrot
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4430503772314761796}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 636848651599816460}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2960500581385477035}
+  m_SourcePrefab: {fileID: 100100000, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+--- !u!1 &6244568104311542301 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+  m_PrefabInstance: {fileID: 6514527551677034316}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4430503772314761796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6244568104311542301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8190812cd1570514f988464a9bc31994, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  model: {fileID: 7659816623855240962}
+  coocked:
+  - {fileID: 919132149155446097, guid: 8360f7ad52ea0854296ff1c2ba15f484, type: 3}
+  IngredientType: Vegitable
+  Name: Carrot
+  Names:
+  - CuttingCarrot
+  statments: 0
+  speedRotate: 55
+--- !u!65 &636848651599816460
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6244568104311542301}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.9782939, y: 0.42555356, z: 0.6593302}
+  m_Center: {x: -0.16724467, y: 0.22829938, z: 0.049665064}
+--- !u!54 &2960500581385477035
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6244568104311542301}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 112
+  m_CollisionDetection: 0
+--- !u!33 &7659816623855240962 stripped
+MeshFilter:
+  m_CorrespondingSourceObject: {fileID: -5754084199372789682, guid: 7529790642609874bbcb014841f6e89c, type: 3}
+  m_PrefabInstance: {fileID: 6514527551677034316}
+  m_PrefabAsset: {fileID: 0}
