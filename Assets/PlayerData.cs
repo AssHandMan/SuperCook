@@ -13,4 +13,9 @@ public class PlayerData
         pos[1] = player.transform.position.y;
         pos[2] = player.transform.position.z;
     }
+
+    public PlayerData(float[] pos)
+    {
+        this.pos = pos;
+    }
 }
